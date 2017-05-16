@@ -1,0 +1,33 @@
+#pozicija {
+    text-align: center;
+}
+#napred {
+    background: url("napred.png");
+        width: 32px;
+        height: 32px;
+        border: none;
+}
+#levo {
+    background: url("levo.png");
+        width: 32px;
+        height: 32px;
+        border: none;
+}
+#desno {
+    background: url("desno.png");
+        width: 32px;
+        height: 32px;
+        border: none;
+}
+#nazad {
+    background: url("nazad.png");
+        width: 32px;
+        height: 32px;
+        border: none;
+}
+#reset {
+background: url("stop.png");
+        width: 32px;
+        height: 32px;
+        border: none;
+}
